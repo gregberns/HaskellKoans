@@ -7,11 +7,9 @@ This repository is currently under construction. Do not use until this notice is
 
 ## What are Koans?
 
-```
-Essentially, you clone a github repository that has 200 or so failing test cases. Then, you work your way through the test cases, writing functions and filling in the blanks, getting the tests to pass one by one. The first few tests are very basic and assume no prior knowledge of the language, and then they build on each other, moving to more advanced topics.
-
-http://www.lauradhamilton.com/learn-a-new-programming-language-today-with-koans
-```
+> Essentially, you clone a github repository that has 200 or so failing test cases. Then, you work your way through the test cases, writing functions and filling in the blanks, getting the tests to pass one by one. The first few tests are very basic and assume no prior knowledge of the language, and then they build on each other, moving to more advanced topics.
+> 
+> http://www.lauradhamilton.com/learn-a-new-programming-language-today-with-koans
 
 ## Getting Started
 
