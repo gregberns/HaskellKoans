@@ -35,5 +35,6 @@ stack test
 ### To Do:
 * Make sure "Getting Started" works for new environments
 * See if the message returned when __ is good enough
+* Add more Koans, then need to go and add __
 
 
