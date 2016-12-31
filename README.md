@@ -49,6 +49,9 @@ stack test
     * Multi-parameter Types
     * Recursion
     * Records
+    * Type Signatures
+    * Lambdas
+    * ADT (Algebraic Data Types)
 * Make sure "Getting Started" works for new environments
 * See if the message returned when \__ is good enough
 * Add more Koans, then need to go and add \__
