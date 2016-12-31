@@ -53,5 +53,6 @@ stack test
     * Type Signatures
     * Lambdas
     * ADT (Algebraic Data Types)
+    * See 'NNext' koan for other ideas
 * Make sure "Getting Started" works for new environments
 * See if the message returned when \__ is good enough
