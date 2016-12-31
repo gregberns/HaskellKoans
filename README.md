@@ -13,12 +13,24 @@ This repository is currently under construction. Do not use until this notice is
 
 ## Getting Started
 
-Get the environment set up using Homebrew:
+### Pre-requisites
+
+The Haskell platform and Haskell Stack need to be installed, 
+
+Use the two links below to get the Haskell platform and Haskell Stack installed.
+
+https://www.haskell.org/platform/
+
+https://docs.haskellstack.org/en/stable/README/
+
+Or if on Mac, use Homebrew to install:
 
 ```
 brew install haskell
 brew install haskell-stack
 ```
+
+### Koans
 
 Execute the following commands in a terminal: 
 
@@ -30,9 +42,15 @@ stack build
 stack test
 ```
 
-### To Do:
+## Contributing
+
+* Add more koans to existing topics
+* Add new topics, such as:
+    * Multi-parameter Types
+    * Recursion
+    * Records
 * Make sure "Getting Started" works for new environments
-* See if the message returned when __ is good enough
-* Add more Koans, then need to go and add __
+* See if the message returned when \__ is good enough
+* Add more Koans, then need to go and add \__
 
 
