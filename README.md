@@ -44,6 +44,7 @@ stack test
 
 ## Contributing
 
+* Add \__ to koans
 * Add more koans to existing topics
 * Add new topics, such as:
     * Multi-parameter Types
@@ -54,6 +55,3 @@ stack test
     * ADT (Algebraic Data Types)
 * Make sure "Getting Started" works for new environments
 * See if the message returned when \__ is good enough
-* Add more Koans, then need to go and add \__
-
-
