@@ -3,7 +3,7 @@
 Koans to help learn Haskell.
 
 **NOTICE** 
-This repository is currently under construction. Do not use until this notice is removed.
+This repository is incomplete. If you are intested in extending, please feel free to fork and submit a pull request.
 
 ## What are Koans?
 
